@@ -21,3 +21,7 @@
    > practice foreach two dimension array.
 6. A a = new A(); - new operator is creating A class object by calling default constructor whose reference is stored in A class reference variable a using = operator.
 7. types of variable - instance, static, local - primitive type and reference type
+
+-----------
+# Operators
+1. operators oracle
